@@ -1,0 +1,14 @@
+#############################
+#Created By: Reed Behnfeldt	#
+#############################
+
+#Example configuration:
+#ip 127.0.0.1:3306
+#database MyDatabaseName
+#username TestUser
+#password password
+
+ip YourIpHere:YourPortHere
+database YourDatabaseNameHere
+username YourUsernameHere
+password YourPasswordHere
